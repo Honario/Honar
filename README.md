@@ -11,7 +11,7 @@ Bscscan: https://bscscan.com/token/0x8175f487F9047Ba3e66b601af1CbD052eaBF6E6D
 
 1. Logo
 
-![alt tag](https://github.com/honario/honar/blob/master/logo/logo.jpeg)
+![alt tag](https://github.com/honario/honar/blob/master/logo/logo.jpeg  width="200" height="400")
 
 Audited by Honar
 
